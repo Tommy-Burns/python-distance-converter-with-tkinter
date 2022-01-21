@@ -20,6 +20,7 @@ def reset():
     convert_value.set('')
     frmcmb.set('')
     tocmb.set('')
+    res_var.set('')
     
 
 
